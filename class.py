@@ -1,2 +1,2 @@
 class Home():
-    print()
+    print("Hello world")
